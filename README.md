@@ -5,9 +5,10 @@
 I am Vishvendra Singh, a 3rd year student from Dayananda Sagar College of Engineering.
 
 ### Language and Tools Used- </br>
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=00599C)
+![Verilog](https://img.shields.io/badge/-Verilog-000000?style=for-the-badge&logo=Verilog&logoColor=00599C)
 
 
 ### My GitHub Stats- </br>
