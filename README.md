@@ -2,14 +2,21 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I am Vishvendra Singh, a 3rd year student from Dayananda Sagar College of Engineering.
+I am Vishvendra Singh, a graduate from Dayananda Sagar College of Engineering, currenlty working as a Software Engineer in Course5i.
 
-### Language and Tools Used- </br>
+<!-- ### Language and Tools Used- </br>
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=00599C)
 ![Verilog](https://img.shields.io/badge/-Verilog-000000?style=for-the-badge&logo=Verilog&logoColor=00599C)
-
+ -->
+ [HTML]
+ [CSS]
+ [Javascript]
+ [React]
+ [C++]
+ [Python]
+ [Material UI]
 
 ### My GitHub Stats- </br>
 ![Vishvendra's github stats](https://github-readme-stats.vercel.app/api?username=singhvishvendra700&show_icons=true&theme=dark)
