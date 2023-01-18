@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I am Vishvendra Singh, a graduate from Dayananda Sagar College of Engineering, currenlty working as a Software Engineer in Course5i.
+I am Vishvendra Singh, a graduate from Dayananda Sagar College of Engineering, currenlty working as a Software Engineer at Course5i.
 
 <!-- ### Language and Tools Used- </br>
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
